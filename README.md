@@ -6,6 +6,10 @@ In this repositories there is a shell script that counts the article 'de'.
 
 There is one other file in this repositorie this is the file i used for my experiment.
 
+## Requirements 
+
+The script has to be a txt file. I downloaded the wikipedia page to a pdf and then i used an online pdf to txt converter.
+
 ## How to download
 
 1. Click on the code button
